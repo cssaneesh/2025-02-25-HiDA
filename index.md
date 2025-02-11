@@ -414,14 +414,6 @@ Like other Carpentries workshops, you will be learning by "coding along" with th
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
-<p>
-  For online workshops, the section below provides:
-  
-  * installation instructions for the Zoom client  
-  * recommendations for setting up Learners' workspace so they can follow along
-      the instructions and the videoconferencing  
-</p>
-
 {% comment %}
 For online workshops, the section below provides:
 - installation instructions for the Zoom client
